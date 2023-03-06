@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\User\Desktop\projects\Sapper\OpenGLproject\main.cpp(52,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\projects\Sapper\OpenGLproject\main.cpp(54,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\projects\Sapper\OpenGLproject\main.cpp(56,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\projects\Sapper\OpenGLproject\main.cpp(59,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\projects\Sapper\OpenGLproject\main.cpp(61,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\projects\Sapper\OpenGLproject\main.cpp(64,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\projects\Sapper\OpenGLproject\main.cpp(66,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\projects\Sapper\OpenGLproject\main.cpp(70,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\projects\Sapper\OpenGLproject\main.cpp(96,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\projects\Sapper\OpenGLproject\main.cpp(97,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\projects\Sapper\OpenGLproject\main.cpp(98,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\projects\Sapper\OpenGLproject\main.cpp(99,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\projects\Sapper\OpenGLproject\main.cpp(154,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\projects\Sapper\OpenGLproject\main.cpp(161,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\projects\Sapper\OpenGLproject\main.cpp(161,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\projects\Sapper\OpenGLproject\main.cpp(273,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  OpenGLproject.vcxproj -> C:\Users\User\Desktop\projects\Sapper\x64\Debug\OpenGLproject.exe
